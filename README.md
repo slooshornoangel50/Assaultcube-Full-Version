@@ -232,3 +232,6 @@ This repository serves as the official landing page for AssaultCube. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AssaultCube today!**
+
+---
+**Last updated:** 2026-09-12 07:26:49 UTC
