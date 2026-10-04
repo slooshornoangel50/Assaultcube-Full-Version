@@ -234,4 +234,4 @@ This repository serves as the official landing page for AssaultCube. The softwar
 **Get the most recent version of AssaultCube today!**
 
 ---
-**Last updated:** 2026-10-04 14:37:26 UTC
+**Last updated:** 2026-10-04 18:27:41 UTC
